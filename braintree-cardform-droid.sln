@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naxam.BraintreeCardForm.Droid", "Naxam.BraintreeCardForm.Droid\Naxam.BraintreeCardForm.Droid.csproj", "{5F8539EA-F18A-4373-800D-C4A46E582BE9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "demo", "demo", "{27A2CD6B-1A33-4CBF-8285-43B2F653AAAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardFormQs", "demo\CardFormQs\CardFormQs.csproj", "{91C2546B-5494-484A-A72B-2B3AD482E241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F8539EA-F18A-4373-800D-C4A46E582BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8539EA-F18A-4373-800D-C4A46E582BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8539EA-F18A-4373-800D-C4A46E582BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8539EA-F18A-4373-800D-C4A46E582BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91C2546B-5494-484A-A72B-2B3AD482E241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C2546B-5494-484A-A72B-2B3AD482E241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C2546B-5494-484A-A72B-2B3AD482E241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C2546B-5494-484A-A72B-2B3AD482E241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{91C2546B-5494-484A-A72B-2B3AD482E241} = {27A2CD6B-1A33-4CBF-8285-43B2F653AAAF}
+	EndGlobalSection
+EndGlobal

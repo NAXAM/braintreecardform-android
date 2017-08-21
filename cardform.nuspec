@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.BraintreeCardForm.Droid</id>
+        <version>3.1.0</version>
+        <authors>NAXAM</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - Braintree for Android - CardForm</title>
+        <summary>Xamarin Android Binding Library - Braintree for Android - CardForm</summary>
+        <description>Xamarin Android Binding Library - Braintree for Android - CardForm</description>
+        <releaseNotes>Braintree for Android - CardForm v3.1.0</releaseNotes>
+        <iconUrl>https://avatars1.githubusercontent.com/u/25535951</iconUrl>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/braintreecardform-android-binding</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.Android, braintree, braintreepayments, cardform, card-form</tags>
+        <dependencies>
+            <dependency id="Xamarin.Android.Support.Design" version="25.3.1"/>
+            <dependency id="Xamarin.CardIO.Android" version="5.5.1" />
+        </dependencies>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.BraintreeCardForm.Droid/bin/Release/Naxam.BraintreeCardForm.Droid.dll" target="lib/MonoAndroid10/Naxam.BraintreeCardForm.Droid.dll" />
+    </files>
+</package>
