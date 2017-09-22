@@ -4,14 +4,14 @@
         <!-- Required elements-->
         <id>Naxam.BraintreeCardForm.Droid</id>
         <version>3.1.0</version>
-        <authors>NAXAM</authors>
+        <authors>NAXAM CO.,LTD</authors>
         <owners>NAXAM CO.,LTD</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>Naxam - Braintree for Android - CardForm</title>
-        <summary>Xamarin Android Binding Library - Braintree for Android - CardForm</summary>
-        <description>Xamarin Android Binding Library - Braintree for Android - CardForm</description>
+        <summary>Xamarin.Android Binding Library - Braintree for Android - CardForm</summary>
+        <description>Xamarin.Android Binding Library - Braintree for Android - CardForm</description>
         <releaseNotes>Braintree for Android - CardForm v3.1.0</releaseNotes>
-        <iconUrl>https://avatars1.githubusercontent.com/u/25535951</iconUrl>
+        <iconUrl>https://avatars3.githubusercontent.com/u/3453</iconUrl>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/NAXAM/braintreecardform-android-binding</projectUrl>
         <copyright>Copyright (c) 2017 NAXAM</copyright>
